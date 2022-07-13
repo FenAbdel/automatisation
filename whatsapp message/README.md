@@ -1,6 +1,6 @@
 # Whatsapp message automatisation
 
-I had a mission to contact +10 peaple in order to inform them with the same information so I think to automate the think instead of doing it manually .
+I had a mission to contact +10 peaple in order to inform them with the same information so I think to automate the thing instead of doing it manually .
 
 I use 4 librarys in my code to do it : pyautogui,pyperclip,webbrowser,time
 
