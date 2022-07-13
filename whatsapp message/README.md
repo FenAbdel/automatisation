@@ -14,7 +14,7 @@ time and webbrowser are part of the python standard library, you don't have to i
 pyperclips a cross-platform Python module for copy and paste clipboard functions. It works with Python 2 and 3.<br>
 pyautogui lets your Python scripts control the mouse and keyboard to automate interactions with other applications. 
 
-first your browser should be connected at whatsapp web to accomplish the thing.
+first your browser should be connected to whatsapp web to accomplish the thing.
 
 in the numberslist dictionnaire you should enter the number of the pple you want to contact in the format of "key":"value"
 
