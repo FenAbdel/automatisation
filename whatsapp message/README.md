@@ -11,7 +11,7 @@ to install the libs :
 
 time and webbrowser are part of the python standard library, you don't have to install a separate package to use it because it comes bundled with your python installation.
 
-pyperclips a cross-platform Python module for copy and paste clipboard functions. It works with Python 2 and 3.
+pyperclips a cross-platform Python module for copy and paste clipboard functions. It works with Python 2 and 3.<br>
 pyautogui lets your Python scripts control the mouse and keyboard to automate interactions with other applications. 
 
 first your browser should be connected at whatsapp web to accomplish the thing.
