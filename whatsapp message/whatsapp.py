@@ -10,7 +10,7 @@ data = {
 }
 
 for key, value in data.items():
-    wb.open(f"https://web.whatsapp.com/send?phone={value}") #if open whatsapp and go directely to the essenger with the number in values even if it doesn't exit
+    wb.open(f"https://web.whatsapp.com/send?phone={value}") #it opens whatsapp and go directely to the essenger with the number in values even if it doesn't exit
     text = f"my message to {key}" #type your message here ,{key} is in cast you want to write a message with names 
     time.sleep(20) #wait for whatsapp web to open 
     pyperclip.copy(text)  
